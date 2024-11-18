@@ -1,0 +1,6 @@
+fastapi
+passlib
+pymongo
+python-multipart
+pyjwt
+passlib[bcrypt]
