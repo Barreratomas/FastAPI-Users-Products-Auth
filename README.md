@@ -27,13 +27,6 @@ Para instalar las dependencias, ejecuta `pip install -r requirements.txt`
  `uvicorn main:app --reload`
 ---
 
-# Uso de la API
 
-## 1. Autenticación de Usuario  
-Para obtener un token de acceso, realiza una petición POST a /login con tus credenciales:
 
-- **URL**: /login  
-- **Método**: POST  
-- **Parámetros**:
-  - `username`: El email del usuario.
-  - `password`: La contraseña del usuario.
+
