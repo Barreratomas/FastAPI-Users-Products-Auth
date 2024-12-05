@@ -18,9 +18,12 @@ Esta API permite gestionar usuarios, productos y autenticación mediante JWT. Pr
 - [GIT](https://git-scm.com/). 
 - Dependencias listadas en `requirements.txt`.
 
----
-Para instalar las dependencias, ejecuta `pip install -r requirements.txt`
 
+Para instalar las dependencias, ejecuta
+```
+pip install -r requirements.txt
+```
+---
 
 
 ## **Iniciar el Servidor**  
