@@ -1,6 +1,5 @@
 # FastAPI-Users-Products-Auth
-## Deploy
-Para deployar el proyecto necesitamos tener instalado [Python](https://www.python.org/)  y [GIT](https://git-scm.com/).
+
 
 ## **Descripción**  
 Esta API permite gestionar usuarios, productos y autenticación mediante JWT. Proporciona endpoints para crear, actualizar, eliminar y consultar información, además de autenticación segura con tokens JWT.
@@ -15,7 +14,8 @@ Esta API permite gestionar usuarios, productos y autenticación mediante JWT. Pr
 
 ---
 ## **Requisitos Previos**  
-- **Python** 3.9 o superior.  
+- [Python](https://www.python.org/).
+- [GIT](https://git-scm.com/). 
 - Dependencias listadas en `requirements.txt`.
 
 ---
