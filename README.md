@@ -19,7 +19,7 @@ Esta API permite gestionar usuarios, productos y autenticación mediante JWT. Pr
 - Dependencias listadas en `requirements.txt`.
 
 
-Para instalar las dependencias, ejecuta
+Para instalar las dependencias, ejecuta:
 ```
 pip install -r requirements.txt
 ```
@@ -30,7 +30,9 @@ pip install -r requirements.txt
 - Abre una terminal.
 - Navega al directorio raíz del proyecto.
 - Ejecuta el siguiente comando para iniciar el servidor:
- `uvicorn main:app --reload`
+```
+uvicorn main:app --reload
+```
 ---
 
 
