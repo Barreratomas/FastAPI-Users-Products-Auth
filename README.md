@@ -1,6 +1,6 @@
 # FastAPI-Users-Products-Auth
 ## Deploy
-Para deployar el proyecto necesitamos tener instalado [Composer](https://getcomposer.org/) , [NodeJS](https://nodejs.org/en/) y [GIT](https://git-scm.com/).
+Para deployar el proyecto necesitamos tener instalado [Python]([https://getcomposer.org/](https://www.python.org/downloads/))  y [GIT](https://git-scm.com/).
 
 ## **Descripción**  
 Esta API permite gestionar usuarios, productos y autenticación mediante JWT. Proporciona endpoints para crear, actualizar, eliminar y consultar información, además de autenticación segura con tokens JWT.
